@@ -1,0 +1,19 @@
+{
+  "name": "adapter-pattern",
+  "version": "0.1.0",
+  "description": "Example of Adapter design pattern implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "author": "Julius Koronci <jk@web-solutions.sk>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  },
+  "devDependencies": {
+    "@types/react": "^16.7.17",
+    "@types/react-dom": "^16.0.11"
+  }
+}
